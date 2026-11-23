@@ -1,6 +1,8 @@
 # Minecraft Server Mod Sync
 
-A lightweight client-server utility designed to keep Minecraft modpacks synchronized across clients. The system consists of a Go-based HTTP server for hosting files and directories, and a Python CLI desktop application for managing settings and downloading missing `.jar` mod files.
+A lightweight client-server utility designed to keep Minecraft modpacks synchronized across clients. The system consists of a Go-based HTTP server for hosting files and directories, and a Python CLI desktop application for managing settings and downloading missing `.jar` mod files. 
+
+AI use is kept to a minimum. I keep my projects humanly generated, usually utilizing AI as a research tool at most.
 
 ---
 
